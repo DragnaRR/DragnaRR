@@ -1,4 +1,4 @@
-[![MasterHead](https://cutewallpaper.org/27/binary-code-wallpaper-gif/related-image-animation-in-photoshop-gif-background-animation-background.gif)](https://rishavchanda.io)
+[![MasterHead](https://static.wixstatic.com/media/2d0812_ebf28c23559641fa8668ef4998bbf99e~mv2.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, Its Ankush</h1>
 <h3 align="center">Data Analyst</h3>
 

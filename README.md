@@ -4,7 +4,7 @@
 
 I am a passionate and self-taught Data Analyst who has good experience in Data Visualization, Exploratory Data analysis, TensorFlow, Keras, Flask. Sometimes I build mini projects for myself 🙂
 
-<img align="right" alt="Matrix_fall" width="400" src="https://cutewallpaper.org/27/binary-code-wallpaper-gif/related-image-animation-in-photoshop-gif-background-animation-background.gif">
+<img align="right" alt="Matrix_fall" width="400" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif">
 
 - 🌍  I'm based in **India**
 

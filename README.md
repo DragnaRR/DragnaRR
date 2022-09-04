@@ -1,4 +1,4 @@
-[![MasterHead](https://static.wixstatic.com/media/2d0812_ebf28c23559641fa8668ef4998bbf99e~mv2.gif)](https://rishavchanda.io)
+[![MasterHead](http://www.reddit.com/r/perfectloops/comments/1f2vy0/the_matrix/)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, Its Ankush</h1>
 <h3 align="center">Data Analyst</h3>
 

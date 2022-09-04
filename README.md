@@ -1,4 +1,4 @@
-[![MasterHead](https://upload.wikimedia.org/wikipedia/commons/4/4c/Digital_rain_banner.gif)](https://rishavchanda.io)
+[![MasterHead](https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, Its Ankush</h1>
 <h3 align="center">Data Analyst</h3>
 

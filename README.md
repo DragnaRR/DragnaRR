@@ -1,4 +1,4 @@
-[![MasterHead](https://media1.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif?cid=ecf05e47mp24qo1d995uwmcgrk3rbpgxamgnuhrw4ygf0jm0&rid=giphy.gif&ct=g)](https://rishavchanda.io)
+[![MasterHead](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, Its Ankush</h1>
 <h3 align="center">Data Analyst</h3>
 

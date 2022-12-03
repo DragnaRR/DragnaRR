@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, Its Ankush</h1>
 <h2 align="center">Growing Developer || Tech Enthusiast & Writer</h2>
 
-"Everyday is a learning day"
+<p align="center">"Everyday is a learning day"</p>
 
 I am a passionate and self-taught Data Analyst who has good experience in Data Visualization, Exploratory Data analysis, TensorFlow, Keras, Flask. Sometimes I build mini projects for myself 🙂
 

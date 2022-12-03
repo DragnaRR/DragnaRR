@@ -1,7 +1,8 @@
 [![MasterHead](https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif)](https://github.com/DragnaRR)
 <h1 align="center">Hi 👋, Its Ankush</h1>
-<h2 align="center">Programmer</h2>
+<h2 align="center">Growing Developer || Tech Enthusiast & Writer</h2>
 
+"Everyday is a learning day"
 I am a passionate and self-taught Data Analyst who has good experience in Data Visualization, Exploratory Data analysis, TensorFlow, Keras, Flask. Sometimes I build mini projects for myself 🙂
 
 <img align="right" alt="Matrix_fall" width="400" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif">

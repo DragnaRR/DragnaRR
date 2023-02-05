@@ -12,7 +12,7 @@ I am a passionate and self-taught Data Analyst who has good experience in Data V
 
 - 🔭 I’m currently working on **Computer Vision**
 
-- 🌱 I’m currently learning **Deep Learning, Tableau, Docker and AWS**
+- 🌱 I’m currently learning **Deep Learning, Tableau, Big data**
 
 - 💬 Ask me about **exploratory data analysis, Machine Learning**
 

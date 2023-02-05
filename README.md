@@ -14,7 +14,7 @@ I am a passionate and self-taught Data Analyst who has good experience in Data V
 
 - 🌱 I’m currently learning **Deep Learning, Tableau, Big data**
 
-- 💬 Ask me about **exploratory data analysis, Machine Learning**
+- 💬 Ask me about **exploratory data analysis, Machine Learning and CNN**
 
 - 📫 How to reach me **ankushghosh33@gmail.com**
 

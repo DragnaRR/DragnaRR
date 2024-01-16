@@ -17,9 +17,9 @@ I'm a passionate and self-taught Data Analyst who has good experience in data vi
 
 - 💬 Ask me about **ML, DL, Tableau, Java**
 
-- 📫 How to reach me **my email ID**
+- 📫 How to reach me **ankushghosh33@gmail.com & ankush18121997@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/ankush33](www.linkedin.com/in/ankush33)
+- 📄 Know about my experiences [www.linkedin.com/in/ankush33](https://linkedin.com/in/ankush33)
 
 - ⚡ Fun fact **I will think about it later**
 

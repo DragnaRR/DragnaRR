@@ -15,7 +15,7 @@ In my free time, I work on my personal mini-projects and explore emerging techno
 
 - 🔭 I’m currently working on [Emo-Player](https://github.com/DragnaRR/emo-player)
 
-- 🌱 I’m currently learning **Convolutional Neural Network & Tableau**
+- 🌱 I’m currently learning about **Large Language Model**
 
 - 👨‍💻 All of my projects are available at [my Github repository](https://github.com/DragnaRR?tab=repositories)
 

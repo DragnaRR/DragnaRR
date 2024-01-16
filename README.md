@@ -11,11 +11,11 @@ I'm a passionate and self-taught Data Analyst who has good experience in data vi
 
 - 🔭 I’m currently working on [Emo-Player](https://github.com/DragnaRR/emo-player)
 
-- 🌱 I’m currently learning **Deep Learning & Tableau**
+- 🌱 I’m currently learning **Convolutional Neural Network & Tableau**
 
 - 👨‍💻 All of my projects are available at [my Github repository](https://github.com/DragnaRR?tab=repositories)
 
-- 💬 Ask me about **ML, DL, Tableau, Java**
+- 💬 Ask me about **Java, Python, Exploratory Data Analysis, Data Science, Machine Learning & Deep Learning**
 
 - 📫 How to reach me **ankushghosh33@gmail.com & ankush18121997@gmail.com**
 

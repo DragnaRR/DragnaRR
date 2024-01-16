@@ -9,7 +9,7 @@
 I'm a passionate and self-taught Data Analyst who has good experience in data visualization, exploratory data analysis, tensorflow, kearas, flask. Sometimes I build mini projects for myself.
 
 
-- 🔭 I’m currently working on [Computer Vision](need to put link here)
+- 🔭 I’m currently working on [Emo-Player](https://github.com/DragnaRR/emo-player)
 
 - 🌱 I’m currently learning **Deep Learning & Tableau**
 

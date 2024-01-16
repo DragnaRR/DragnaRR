@@ -13,7 +13,7 @@ I'm a passionate and self-taught Data Analyst who has good experience in data vi
 
 - 🌱 I’m currently learning **Deep Learning & Tableau**
 
-- 👨‍💻 All of my projects are available at [github repos](github repos)
+- 👨‍💻 All of my projects are available at [my Github repository](https://github.com/DragnaRR?tab=repositories)
 
 - 💬 Ask me about **ML, DL, Tableau, Java**
 

@@ -8,7 +8,9 @@
 
 I have deep-seated passion for technology and innovation. My expertise lies in Data science and Java programming, with a strong focus on optimizing and figuring out efficient solution for any given problem. 
 I'm known among my peers for my analytical skills and my ability to dissect complex problems to find effective solutions. My commitment to continuous learning has kept me abreast of the latest industry trends and technologies, allowing me to bring cutting-edge solution to the table.
+
 Beyond my technical abilities, I'm a collaborative team member who values open communication and a shared vision.
+
 In my free time, I work on my personal mini-projects and explore emerging technologies, which fuels my creativity and informs my professional work. Whether it's developing a new application or optimizing existing system, I approach each challenge with a blend of technical acumen and creative thinking.
 
 - 🔭 I’m currently working on [Emo-Player](https://github.com/DragnaRR/emo-player)
